@@ -16,7 +16,6 @@ A simple Django blog application.
 
 - User authentication with Django's built-in user model.
 - Post model for creating and displaying blog posts.
-- Optional user registration and sign-up functionality.
 
 ## Getting Started
 
@@ -32,7 +31,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/my-django-blog.git
+   git clone https://github.com/navyanellurie/DjangoFirstProject
 
 2. Change into the project directory:
    cd myblog
